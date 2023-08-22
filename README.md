@@ -1,3 +1,3 @@
 # Movie App
  
-LIVE demo -> [here]
+LIVE demo -> [here](https://mohdfaizanrizvi.github.io/Movie-App/)
